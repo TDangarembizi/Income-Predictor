@@ -1,5 +1,5 @@
-**Income Level Prediction
-**
+Income Level Prediction
+
 This project uses machine learning to predict income levels based on demographic and personal attributes. The dataset includes information about developers, such as their age, gender, area of residence, immigration status, English proficiency, education level, and reported income.
 
 Dataset Overview
