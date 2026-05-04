@@ -1,6 +1,6 @@
 # Income Level Prediction
 
-This project uses **machine learning** to predict income levels based on demographic and personal attributes of developers. The model leverages features such as age, gender, area of residence, immigration status, English proficiency, and education level to estimate income categories.
+This project uses **machine learning** to predict income levels based on demographic and personal attributes of developers. The model leverages features such as age, gender, area of residence, immigration status, English proficiency and education level to estimate income categories.
 
 ---
 
